@@ -1,3 +1,3 @@
 # Lakkoji-Demo
-Experiencing the Github
+Experiencing the Github for more features
 Author-Lakkoji
